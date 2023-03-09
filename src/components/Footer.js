@@ -58,10 +58,10 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className={"max-w-[25%] w-full"}>
-                    <p className={"text-white text-2xl"}>So'nggi yangiliklar</p>
+                    <p className={"text-white text-2xl"}>So`nggi yangiliklar</p>
                     <div className={"mt-12"}>
                         <div className={"flex items-center my-3"}>
-                            <Image src={Logo} className={"w-20"} />
+                            <Image src={Logo} className={"w-20"} alt={"Logo"} />
                             <div className={"ml-3"}>
                                 <p className={"text-gray-600 text-sm font-semibold"}>Dekabr 17, 2021</p>
                                 <Link href={"/"} className={"text-xl text-white hover:text-violet-800 transition-colors duration-500"}>
@@ -70,7 +70,7 @@ export default function Footer() {
                             </div>
                         </div>
                         <div className={"flex items-center my-3"}>
-                            <Image src={Logo} className={"w-20"} />
+                            <Image src={Logo} className={"w-20"} alt={"Logo"} />
                             <div className={"ml-3"}>
                                 <p className={"text-gray-600 text-sm font-semibold"}>Dekabr 17, 2021</p>
                                 <Link href={"/"} className={"text-xl text-white hover:text-violet-800 transition-colors duration-500"}>

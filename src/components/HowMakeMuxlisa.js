@@ -37,7 +37,7 @@ export default function HowMakeMuxlisa() {
                         </div>
                         <div className={"ml-2"}>
                             <p className={"text-violet-800 text-3xl font-semibold mt-2.5"}>Kuchli qurilmalar</p>
-                            <p className={"text-violet-800 text-base font-semibold mt-2"}>Yuqori samaradorlikka ega superkompyuterlar va eng ilg'or nutq bilan ishlash texnologiyalari va algoritmlari</p>
+                            <p className={"text-violet-800 text-base font-semibold mt-2"}>Yuqori samaradorlikka ega superkompyuterlar va eng ilg`or nutq bilan ishlash texnologiyalari va algoritmlari</p>
                         </div>
                     </div>
                     <div className={"flex"}>
@@ -64,7 +64,7 @@ export default function HowMakeMuxlisa() {
                         </div>
                         <div className={"ml-2"}>
                             <p className={"text-violet-800 text-3xl font-semibold mt-2.5"}>Ochiq manbaalar</p>
-                            <p className={"text-violet-800 text-base font-semibold mt-2"}>Yuqori samaradorlikka ega superkompyuterlar va eng ilg'or nutq bilan ishlash texnologiyalari va algoritmlari</p>
+                            <p className={"text-violet-800 text-base font-semibold mt-2"}>Yuqori samaradorlikka ega superkompyuterlar va eng ilg`or nutq bilan ishlash texnologiyalari va algoritmlari</p>
                         </div>
                     </div>
                     <div className={"flex"}>
@@ -85,8 +85,8 @@ export default function HowMakeMuxlisa() {
                             </svg>
                         </div>
                         <div className={"ml-2"}>
-                            <p className={"text-violet-800 text-3xl font-semibold mt-2.5"}>Ma'lumotlar to'plami</p>
-                            <p className={"text-violet-800 text-base font-semibold mt-2"}>Yuqori samaradorlikka ega superkompyuterlar va eng ilg'or nutq bilan ishlash texnologiyalari va algoritmlari</p>
+                            <p className={"text-violet-800 text-3xl font-semibold mt-2.5"}>Ma`lumotlar to`plami</p>
+                            <p className={"text-violet-800 text-base font-semibold mt-2"}>Yuqori samaradorlikka ega superkompyuterlar va eng ilg`or nutq bilan ishlash texnologiyalari va algoritmlari</p>
                         </div>
                     </div>
                     <div className={"flex"}>
@@ -114,7 +114,7 @@ export default function HowMakeMuxlisa() {
                         </div>
                         <div className={"ml-2"}>
                             <p className={"text-violet-800 text-3xl font-semibold mt-2.5"}>Samarador algoritmlar</p>
-                            <p className={"text-violet-800 text-base font-semibold mt-2"}>Yuqori samaradorlikka ega superkompyuterlar va eng ilg'or nutq bilan ishlash texnologiyalari va algoritmlari</p>
+                            <p className={"text-violet-800 text-base font-semibold mt-2"}>Yuqori samaradorlikka ega superkompyuterlar va eng ilg`or nutq bilan ishlash texnologiyalari va algoritmlari</p>
                         </div>
                     </div>
                 </div>
