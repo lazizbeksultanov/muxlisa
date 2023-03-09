@@ -14,7 +14,7 @@ export default function TopHeader() {
                         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M12.1569 1.2915C15.5495 1.66825 18.2298 4.34492 18.6102 7.7375" stroke="#6F7F92" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path>
                             <path d="M12.1569 4.53906C13.7803 4.8544 15.049 6.12398 15.3652 7.7474" stroke="#6F7F92" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path>
-                            <path fillRule="evenodd" clipRule="evenodd" d="M9.11222 10.4329C12.7688 14.0885 13.5983 9.85933 15.9265 12.1859C18.171 14.4299 19.462 14.8794 16.6172 17.7225C16.261 18.0088 13.9978 21.4529 6.04409 13.5012C-1.91063 5.5485 1.53143 3.28291 1.81778 2.92679C4.66845 0.0758626 5.11125 1.37344 7.35577 3.61739C9.68295 5.94496 5.45565 6.77722 9.11222 10.4329Z" stroke="#6F7F92" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path fillRule="evenodd" clipRule="evenodd" d="M9.11222 10.4329C12.7688 14.0885 13.5983 9.85933 15.9265 12.1859C18.171 14.4299 19.462 14.8794 16.6172 17.7225C16.261 18.0088 13.9978 21.4529 6.04409 13.5012C-1.91063 5.5485 1.53143 3.28291 1.81778 2.92679C4.66845 0.0758626 5.11125 1.37344 7.35577 3.61739C9.68295 5.94496 5.45565 6.77722 9.11222 10.4329Z" stroke="#6F7F92" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"></path>
                         </svg>
                         <a href="tel:+998999999999" className={"mx-2"}>+998 99 999 99 99</a>
                     </div>
