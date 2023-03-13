@@ -1,6 +1,6 @@
 export default function TopHeader() {
     return(
-        <div className={"w-full bg-white border-b border-gray-200"}>
+        <div className={"w-full bg-white border-b border-gray-200 z-20"}>
             <div className={"container mx-auto sm:px-0 px-2 flex items-center justify-between"}>
                 <div className={"flex items-center text-sm font-semibold font-sans text-gray-500"}>
                     <div className={"flex items-center py-4"}>

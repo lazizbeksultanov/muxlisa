@@ -4,7 +4,7 @@ import Logo from "../../public/logo.png"
 
 export default function Navbar() {
     return(
-        <nav className={"bg-white sticky top-0"}>
+        <nav className={"bg-white sticky top-0 z-20"}>
             <div className={"container mx-auto sm:px-0 px-2 py-5 flex items-center justify-between"}>
                 <Link href={"/"} className={"flex items-center max-w-max text-black"}>
                     <Image src={Logo} width={50} height={40} alt={"Logo"} />
