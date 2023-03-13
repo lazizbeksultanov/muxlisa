@@ -12,7 +12,10 @@ module.exports = {
     extend: {
       backgroundImage: {
         'home-bg': "url('/public/homePageBg.png')",
-      }
+      },
+      animation: {
+        "spin-slow": 'spin 10s linear infinite;',
+      },
     },
   },
   plugins: [],
